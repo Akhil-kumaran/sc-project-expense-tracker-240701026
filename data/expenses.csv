@@ -1,0 +1,10 @@
+id,user_id,amount,category,description,expense_date,created_at
+1,1,1000.0,Food,Kfc,2026-04-27,2026-04-27 11:48:32
+2,1,250.0,Transport,Bus pass,2026-04-26,2026-04-27 11:55:00
+3,1,1800.0,Shopping,Shoes,2026-04-25,2026-04-27 11:55:00
+4,1,950.0,Bills,Mobile recharge and internet,2026-04-24,2026-04-27 11:55:00
+5,1,500.0,Education,Python course notes,2026-04-23,2026-04-27 11:55:00
+6,1,350.0,Health,Medicines,2026-04-22,2026-04-27 11:55:00
+7,1,700.0,Entertainment,Movie tickets,2026-04-21,2026-04-27 11:55:00
+8,1,1200.0,Food,Monthly groceries,2026-04-20,2026-04-27 11:55:00
+9,1,300.0,Other,Stationery,2026-04-19,2026-04-27 11:55:00

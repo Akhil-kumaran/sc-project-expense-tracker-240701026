@@ -1,0 +1,3 @@
+id,username,email,password_hash,salt,created_at
+1,user,user@gmail.com,Y3y7SxOSqENWCHuTztD6S46n4HxQcH2F7VRbHv6pzZA=,B34WviNxAAtytJoZduAElA==,2026-04-27 11:46:53
+2,Smoke User,smoke_login_test@example.com,Y96sqKmadz2oK/WU7HHEpgFvRI5mflAF6GYNj1/z+Xg=,G0Gdc5evnSxCKZTSGZUYlA==,2026-04-27 11:47:52
